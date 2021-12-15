@@ -1,1 +1,2 @@
-archivo5
+texto de archivo5 paso 6
+
